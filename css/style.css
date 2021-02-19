@@ -190,8 +190,8 @@ button:focus{
 	color: #ffffff;
 }
 .top-navbar .navbar-light .navbar-nav .nav-item.active .nav-link{
-	background: goldenrod;
-	color: #ffffff;
+	
+	color:black;
 	border-radius: 4px;
 }
 
